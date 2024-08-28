@@ -21,4 +21,4 @@ neste repositorio
 Receba
 
 
-[![Logo_Google_2013_Official svg](https://www.inovem.com.br/wp-content/uploads/2022/04/perfil-alisson-spfv-inovrm.jpg)](https://sociotorcedor.com.br/)
+[![Logo_Google_2013_Official svg](https://i0.wp.com/dolcemorumbi.com/wp-content/uploads/2020/10/entrevista-julio-casares-0-destacada.jpg?fit=1056%2C699&ssl=1)](https://sociotorcedor.com.br/)
