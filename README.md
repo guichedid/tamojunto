@@ -13,3 +13,6 @@ neste repositorio
 
 # exemplo inserindo uma imagem
 ![imagem qualquer](https://www.inovem.com.br/wp-content/uploads/2022/04/perfil-alisson-spfv-inovrm.jpg)
+
+# exemplo link
+[texto link](https://www.tiktok.com/@spfc.rma/video/7331949067250994438?lang=pt-BR&q=spfc%20&t=1724805897533)
