@@ -18,7 +18,7 @@ neste repositorio
 [Coisa boa](https://www.tiktok.com/@spfc.rma/video/7331949067250994438?lang=pt-BR&q=spfc%20&t=1724805897533)
 
 # imagem link
-Receba
+joia
 
 
 [![Logo_Google_2013_Official svg](https://i0.wp.com/dolcemorumbi.com/wp-content/uploads/2020/10/entrevista-julio-casares-0-destacada.jpg?fit=1056%2C699&ssl=1)](https://sociotorcedor.com.br/)
