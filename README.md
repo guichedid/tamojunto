@@ -19,4 +19,4 @@ neste repositorio
 
 # imagem link
 Clique na imagem para acessar o Google.
-[![Logo_Google_2013_Official svg](https://user-images.githubusercontent.com/5532...](https://google.com.br)
+[![Logo_Google_2013_Official svg](https://user-images.githubusercontent.com/5532...)(https://google.com.br)]
